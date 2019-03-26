@@ -1,0 +1,31 @@
+html {
+    text-align:center;
+    background-color: Black;
+}
+
+img {
+    Width: 400px;
+}
+
+P {
+    color: white;
+    font-family: 'Righteous', cursive;
+}
+
+h1 {
+    Color: white;
+}
+
+h2  {
+    Color: white;
+}
+
+ul {
+    color: red;
+    font-family: 'Righteous', cursive;
+}
+
+ol {
+    color: yellow;
+    font-family: 'Righteous', cursive;
+}
